@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708852162121",
+    "project_id": "ldsw-firebase-app-99612",
+    "storage_bucket": "ldsw-firebase-app-99612.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708852162121:android:f631c1c2d3d9ac0d6ca998",
+        "android_client_info": {
+          "package_name": "com.example.ldsw_integracion_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCupQCmxV7cOt2C_cJqOJMmUFPiDXN2Oa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
